@@ -1,0 +1,4 @@
+uwsgi
+flask
+gunicorn
+opencv-python
